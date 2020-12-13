@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Safi Majid</title>
+    <link>https://safimajid.github.io/projects/</link>
+    <description>Recent content in Projects on Safi Majid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://safimajid.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HW wallet</title>
+      <link>https://safimajid.github.io/projects/report_ver_1.5/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://safimajid.github.io/projects/report_ver_1.5/</guid>
+      <description>HARDWARE WALLET FOR CRYPTOCURRENCIES
+Final Year Project Report by
+Muhammad Fahad Baig (174885) Haider Tariq (177742) Safi Majid (174203)</description>
+    </item>
+    
+  </channel>
+</rss>
